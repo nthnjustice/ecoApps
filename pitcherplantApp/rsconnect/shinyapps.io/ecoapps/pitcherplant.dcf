@@ -1,0 +1,8 @@
+name: pitcherplant
+account: ecoapps
+server: shinyapps.io
+bundleId: 264340
+url: https://ecoapps.shinyapps.io/pitcherplant
+when: 1442153276.54374
+asMultiple: FALSE
+asStatic: FALSE

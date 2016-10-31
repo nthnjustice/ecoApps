@@ -1,0 +1,8 @@
+name: populationmodelsApp
+account: ecoapps
+server: shinyapps.io
+bundleId: 383756
+url: https://ecoapps.shinyapps.io/populationmodelsApp/
+when: 1456779547.98544
+asMultiple: FALSE
+asStatic: FALSE
